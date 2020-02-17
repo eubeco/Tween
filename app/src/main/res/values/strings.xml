@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tween</string>
+    <string name="push">PUSH</string>
+    <string name="show">SHOW</string>
+    <string name="animate">ANIMATE</string>
+    <string name="progress">PROGRESS</string>
+    <string name="salir">SALIR</string>
+</resources>
